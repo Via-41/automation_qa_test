@@ -1,1 +1,1 @@
-# Slava_proj
+# automation_qa_test
